@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  macha:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-06-08T08:18:35.566958777Z"
+    description: A Helm chart for Kubernetes
+    digest: df46e612bef92288a483a8daae16b23f55f0bcdaea79aaa5e8dd07fb20d142d2
+    name: macha
+    type: application
+    urls:
+    - macha-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-08T08:18:35.566258254Z"
